@@ -54,6 +54,7 @@ This module requires the following modules/libraries:
 * [phplib](https://github.com/islandora/php_lib)
 * [Objective forms](https://github.com/islandora/objective_forms)
 * libxml2 version 2.7+
+* Additional documentation on using XML Forms can be found [here] (https://github.com/Islandora/islandora/wiki/Working-Programmatically-With-XML-Forms).
 
 ## Installation
 
